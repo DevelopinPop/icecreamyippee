@@ -1,0 +1,13 @@
+
+
+a:link {
+    transition-duration: 100ms;
+    transform: translateY(0%);
+    
+}
+a:hover {
+    transform: translateY(-4px);
+}
+a:active {
+    transform: translateY(-2px);
+}
